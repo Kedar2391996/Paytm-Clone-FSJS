@@ -2,7 +2,7 @@
 
 ## Took 25 hours to develop full UI
 
-[Live]()
+[Live](https://tailwind-paytm-clone-fsjs.netlify.app/)
 
 ### Screenshots
 
